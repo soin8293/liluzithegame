@@ -1,0 +1,18 @@
+Fire Lizard Famas: famas
+Fire Ant AR: ar
+Space Inavder Sniper: sniper
+Space Inavder Smith & Wesson: smith & wesson
+Kardashian JacuzziJet: jacuzzijet
+gnarly teeth: teeth
+massive paws: paws
+Space Inavder Wesson & Smith: wesson & smith
+Big Uzi: uzi
+//Player weapons
+Glock-18: Classic modern pistol. Used by cops
+Mac-11: Little machine pistol
+M-3 Predator: Alien blaster pistol and shoot low energy beams
+DL-44 Blaster: Assualt rifle like energy blaster that shoots beams of energy
+AK-47: Assualt rifle that shoots bullets
+Flamethower: Shoots fire
+Ray Gun: A wonder weapon that shoots rays of energy
+AH-64 Apache Helicopter: An entire helicopter that you fly. Shoots bullets and rockets
